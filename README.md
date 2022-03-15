@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m @MaggieTavares
 - 👀 I’m interested in tech, syfy movies and videogames
-- 🌱 I’m currently learning abou web development
+- 🌱 I’m currently learning about web development
 - 💞️ I’m looking to collaborate on scientist from any field
 - ⚡ Fun fact: My ultimate dream is to be on Assassins Creed experience. 🖖
 
