@@ -1,6 +1,8 @@
 # Maggie Tavares
 
-<img align="left" height="270px" alt="hello_world" src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.nerdstickers.com.br%2Ftodos%2Fhello-world%2F&psig=AOvVaw0CuRB1MkvQbxbkv9IokfnJ&ust=1647390286511000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCAl5_txvYCFQAAAAAdAAAAABAD" />
+
+  
+  <img align="left" height="270px" alt="guy" width="350" src="https://media-exp1.licdn.com/dms/image/C4E12AQGC77I_ni5vhQ/article-cover_image-shrink_720_1280/0/1547650472254?e=1652918400&v=beta&t=vGxEQTm4MOkhiTXBTmlGk1XwNNkQAt5yqfYnRh3RNZM" />
 
 
 <h3> :woman: &nbsp;About Me </h3>
@@ -27,8 +29,7 @@
 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/anjcray/"><img src="https://www.linkedin.com/in/magdalena-tavares-959025229/" alt="LinkedIn" /></a>&nbsp;
-
+<a href="https://www.linkedin.com/in/magdalena-tavares-959025229/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
 <a align= "center" href="https://github.com/dataonatangent">
